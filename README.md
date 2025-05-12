@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Riya-l209/Leet/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Riya-l209/Leet/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Riya-l209/Leet/tree/master/0027-remove-element) |
 | [1293-three-consecutive-odds](https://github.com/Riya-l209/Leet/tree/master/1293-three-consecutive-odds) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Riya-l209/Leet/tree/master/2215-finding-3-digit-even-numbers) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Riya-l209/Leet/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Riya-l209/Leet/tree/master/0027-remove-element) |
 ## Sorting
 |  |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Riya-l209/Leet/tree/master/2215-finding-3-digit-even-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Riya-l209/Leet/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
