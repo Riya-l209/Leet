@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Riya-l209/Leet/tree/master/0001-two-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Riya-l209/Leet/tree/master/2215-finding-3-digit-even-numbers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Riya-l209/Leet/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +32,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Riya-l209/Leet/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Riya-l209/Leet/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## String
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Riya-l209/Leet/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Riya-l209/Leet/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Counting
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Riya-l209/Leet/tree/master/3629-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
