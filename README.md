@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Riya-l209/Leet/tree/master/1293-three-consecutive-odds) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Riya-l209/Leet/tree/master/2215-finding-3-digit-even-numbers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Riya-l209/Leet/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3639-zero-array-transformation-i](https://github.com/Riya-l209/Leet/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Riya-l209/Leet/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/Riya-l209/Leet/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
