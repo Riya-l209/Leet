@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Riya-l209/Leet/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Riya-l209/Leet/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Riya-l209/Leet/tree/master/0027-remove-element) |
+| [0073-set-matrix-zeroes](https://github.com/Riya-l209/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Riya-l209/Leet/tree/master/0075-sort-colors) |
 | [1293-three-consecutive-odds](https://github.com/Riya-l209/Leet/tree/master/1293-three-consecutive-odds) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Riya-l209/Leet/tree/master/2215-finding-3-digit-even-numbers) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Riya-l209/Leet/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Riya-l209/Leet/tree/master/0073-set-matrix-zeroes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Riya-l209/Leet/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Riya-l209/Leet/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/Riya-l209/Leet/tree/master/3639-zero-array-transformation-i) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Riya-l209/Leet/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
