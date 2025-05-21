@@ -1,3 +1,20 @@
+Daily Practicing Leet
+> 💻 Welcome to my Daily LeetCode Practice Repository!
+
+I consistently solve coding problems on LeetCode to improve my Data Structures and Algorithms skills using Java ☕.
+🚀 What’s inside?
+✅ Daily problem-solving in Java
+✍ Well-commented solutions with clear logic
+⏱ Time & space complexity analysis
+📌 My personal notes and learning insights
+
+🌟 Why this repo?
+Coding daily builds habit, speed, and confidence! This repo is my accountability partner and a reflection of my growth.
+Let’s keep the streak alive and reach new coding heights!
+#100DaysOfCode #JavaCoding #LeetCodeDaily #DSA #InterviewPrep
+
+
+
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
