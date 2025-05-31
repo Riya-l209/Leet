@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Riya-l209/Leet/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/Riya-l209/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Riya-l209/Leet/tree/master/0075-sort-colors) |
+| [0945-snakes-and-ladders](https://github.com/Riya-l209/Leet/tree/master/0945-snakes-and-ladders) |
 | [1293-three-consecutive-odds](https://github.com/Riya-l209/Leet/tree/master/1293-three-consecutive-odds) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Riya-l209/Leet/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Riya-l209/Leet/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Riya-l209/Leet/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/Riya-l209/Leet/tree/master/0945-snakes-and-ladders) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -136,5 +138,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/Riya-l209/Leet/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Riya-l209/Leet/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 <!---LeetCode Topics End-->
